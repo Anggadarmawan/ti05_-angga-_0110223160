@@ -1,0 +1,70 @@
+body{
+    background-color: rgb(255, 141, 11);
+}
+
+blockquote{
+    background-color: rgb(140, 216, 17);
+    color: rgb(13, 34, 151);
+    font-family: 'Times New Roman', Times, serif;
+    font: bold;
+    margin: auto;
+}
+
+#hearde{
+    background-color: aquamarine;
+    color: rgb(131, 10, 10);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font: bold;
+    margin: auto;
+}
+
+
+.gambar{
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+    width:200px
+
+}
+.isi{
+    text-align: justify;
+    width: fit-content;
+    font-family: 'Times New Roman', Times, serif;
+}
+#profil{
+    text-align: justify;
+    width: fit-content;
+    font-family: 'Times New Roman', Times, serif;
+}
+#beternak{
+    text-align:left;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.koleksi{
+    align-items: center;
+    margin-left: 25%;
+    width:auto
+}
+
+.promo{
+    background-color: rgb(187, 0, 0);
+    border: 5px dotted rgb(6, 46, 167);
+    text-align: center;
+    font-weight: bold;
+    color: rgb(195, 216, 8);
+    margin-left: 30%;
+    width: fit-content;
+    height: fit-content;
+}
+
+    .ol{
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    
+    }
